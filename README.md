@@ -1,2 +1,2 @@
 # TwitterCloneCoding
-SwiftUI를 통한 Twitter 앱 클론 코딩
+**SwiftUI**로 **Twitter**를 클론해보자!
