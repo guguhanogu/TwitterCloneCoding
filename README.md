@@ -9,12 +9,9 @@
 2. SearchView
  - 트위터의 검색 뷰
 
-
-
 3. NotificationView
  - 트위터의 알람 뷰
 
- 
  
  
 4. MessageView
